@@ -19,8 +19,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sungmin214">
-        <img src="https://avatars.githubusercontent.com/Sungmin214" width="140px;" alt="Sungmin214"/>
+      <a href="https://github.com/hskhsmm">
+        <img src="https://avatars.githubusercontent.com/hskhsmm" width="140px;" alt="hskhsmm"/>
       </a>
     </td>
   </tr>
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Java-F2712B?style=flat-square&logo=OpenJDK&logoColor=white"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-F2712B?style=flat-square&logo=OpenJDK&logoColor=white"/>
     </td>
   </tr>
 </table>
